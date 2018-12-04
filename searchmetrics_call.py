@@ -10,9 +10,9 @@ API_SECRET = ""
 ### Payload Items for API Call ###
 # To pull data, the Project ID, Search Engine Location, Domain of project, Dates and Limits are needed. For documentation on this,
 ## please see http://api.searchmetrics.com/v3/documentation/api-calls/service/ProjectOrganicGetListRankingsFilter
-pid="1491139"
+pid=""
 engine="29"
-domain="goarmy.com"
+domain=""
 #Dates are in YYYYMMDD format, build payload dates based on Fridays of the month
 date=["20180831", "20180824", "20180817", "20180810", "20180803"]
 limit="250"
